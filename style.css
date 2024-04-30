@@ -282,6 +282,7 @@ body{
     #principal button{
         width: 100%;
         margin: 0px;
+        
     }
 
     /* Section */
@@ -304,5 +305,13 @@ body{
     .checkbox-itens label{
         font-size: 15px;
     }
+
+    footer .linha1{
+        flex-direction: column;
+        height: auto;
+    }
+
+    footer .endereco{
+        margin-bottom: 20px;
     }
 }
